@@ -16,7 +16,7 @@ Users should be able to:
 ### Screenshot
 
 <div align=center>
-<img src="./images/image.png" width="500" height="500"/>
+<img src="./images/image.png" width="520" height="480"/>
 </div>
 
 ### Links
