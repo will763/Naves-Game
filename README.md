@@ -16,12 +16,12 @@ Users should be able to:
 ### Screenshot
 
 <div align=center>
-<img src="./images/image.png" width="250"/>
+<img src="./images/image.png" width="500" height="500"/>
 </div>
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Naves Game](https://naves-game.vercel.app/)
 
 ## My process
 
